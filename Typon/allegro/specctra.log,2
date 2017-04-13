@@ -1,0 +1,57 @@
+# 
+# ===============================================================================
+#                               Allegro PCB Router                               
+# Copyright 1990-2006 Cadence Design Systems, Inc.  All Rights Reserved.
+# ===============================================================================
+# 
+# Software licensed for sale by Cadence Design Systems, Inc.
+# Current time = Mon Mar 14 12:03:14 2011
+# 
+# Allegro PCB Router V16.0 made 2008/03/25 at 11:23:09
+# Running on: newton1, OS Version: WindowsNT 5.1.2600, Architecture: Intel Pentium II, III, or 4
+# Licensing: The program will not obey any unlicensed rules
+# No graphics will be displayed.
+# Design Name H:/Projet_S8/Typon/allegro\carte.dsn
+# Batch File Name: pasde.do
+# Did File Name: H:/Projet_S8/Typon/allegro/specctra.did
+# Current time = Mon Mar 14 12:03:15 2011
+# PCB H:/Projet_S8/Typon/allegro
+# Master Unit set up as: MIL 10
+# PCB Limits xlo=871.0000 ylo=2382.0000 xhi=7229.0000 yhi=9029.0000
+# Total 17 Images Consolidated.
+# Via VIA75_28 z=1, 2 xlo=-37.5000 ylo=-37.5000 xhi= 37.5000 yhi= 37.5000
+# 
+#    VIA      TOP    BOTTOM 
+# 
+#    TOP  --------  VIA75_28
+# BOTTOM  VIA75_28  --------
+# 
+# Wires Processed 0, Vias Processed 0
+# Using colormap in design file.
+# Layers Processed: Signal Layers 2
+# Components Placed 27, Images Processed 37, Padstacks Processed 24
+# Nets Processed 41, Net Terminals 102
+# PCB Area=33408400.000  EIC=8  Area/EIC=4176050.000  SMDs=0
+# Total Pin Count: 124
+# Signal Connections Created 61
+# 
+# Design Rules --------------------------------------------
+# Via Grid 1.0000 with offset 0.0000
+# Layer TOP Horz Signal Wire Grid 1.0000 with offset 0.0000, Width=30.0000, Clearance=20.0000
+# Layer BOTTOM Vert Signal Wire Grid 1.0000 with offset 0.0000, Width=30.0000, Clearance=20.0000
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# 
+# Wiring Statistics ----------------- H:/Projet_S8/Typon/allegro\carte.dsn
+# Nets 41 Connections 61 Unroutes 61
+# Signal Layers 2 Power Layers 0
+# Wire Junctions 0, at vias 0 Total Vias 0
+# Percent Connected    0.00
+# Manhattan Length 108100.0000 Horizontal 52056.3000 Vertical 56043.7000
+# Routed Length   0.0000 Horizontal   0.0000 Vertical   0.0000
+# Ratio Actual / Manhattan   0.0000
+# Unconnected Length 108100.0000 Horizontal 51100.0000 Vertical 57000.0000
+# Total Conflicts: 0 (Cross: 0, Clear: 0, Xtalk: 0, Length: 0, Polygon Clear: 0 )
+# Cpu Time = 0:00:00  Elapsed Time = 0:00:00
+# Loading Do File pasde.do ...
+# Loading Do File H:/Projet_S8/Typon/allegro\carte_rules.do ...
+# Colormap Written to File _notify.std

@@ -1,0 +1,25 @@
+{ Using PSTWRITER 16.0.0 s001Mar-14-2011 at 11:34:58 }
+
+#1 Warning [ALG0016] Part Name "C_CAP_A_0.33 U_CAP_A,CAP_B,CAPCK05,CAPCK06,CAP600,CMS0603,CMS0805,CMS1206,CMS2512" is renamed to "C_CAP_A_0.33 U_CAP_A,CAP_B,CAPC".
+#2 Warning [ALG0016] Part Name "C_CAP_A_0.1 U_CAP_A,CAP_B,CAPCK05,CAPCK06,CAP600,CMS0603,CMS0805,CMS1206,CMS2512" is renamed to "C_CAP_A_0.1 U_CAP_A,CAP_B,CAPCK".
+#3 Warning [ALG0016] Part Name "R_RES_A_47K_RES_A,RES_B,RES_C,RES_D,RES_E,RES_F,RES_G,CMS0603,CMS0805,CMS1206,CMS2512" is renamed to "R_RES_A_47K_RES_A,RES_B,RES_C,R".
+#4 Warning [ALG0016] Part Name "R_RES_A_10K_RES_A,RES_B,RES_C,RES_D,RES_E,RES_F,RES_G,CMS0603,CMS0805,CMS1206,CMS2512" is renamed to "R_RES_A_10K_RES_A,RES_B,RES_C,R".
+#5 Warning [ALG0051] Pin "GND" is renamed to "GND#12" after substituting illegal characters in Package PIC16C74_0 , U1: SCHEMATIC1, PAGE1 (3.30, 2.70).
+#6 Warning [ALG0051] Pin "GND" is renamed to "GND#31" after substituting illegal characters in Package PIC16C74_0 , U1: SCHEMATIC1, PAGE1 (3.30, 2.70).
+#7 Warning [ALG0051] Pin "VDD" is renamed to "VDD#11" after substituting illegal characters in Package PIC16C74_0 , U1: SCHEMATIC1, PAGE1 (3.30, 2.70).
+#8 Warning [ALG0051] Pin "VDD" is renamed to "VDD#32" after substituting illegal characters in Package PIC16C74_0 , U1: SCHEMATIC1, PAGE1 (3.30, 2.70).
+#9 Warning [ALG0016] Part Name "POUSSOIR_SW4_A_BP1_SW4_A,SW4_B,SW4_C,SW4_D,SW4_E,SW4_F,SW4_G" is renamed to "POUSSOIR_SW4_A_BP1_SW4_A,SW4_B,".
+#10 Warning [ALG0016] Part Name "POUSSOIR_SW4_A_BP2_SW4_A,SW4_B,SW4_C,SW4_D,SW4_E,SW4_F,SW4_G" is renamed to "POUSSOIR_SW4_A_BP2_SW4_A,SW4_B,".
+#11 Warning [ALG0016] Part Name "POUSSOIR_SW4_A_BP3_SW4_A,SW4_B,SW4_C,SW4_D,SW4_E,SW4_F,SW4_G" is renamed to "POUSSOIR_SW4_A_BP3_SW4_A,SW4_B,".
+#12 Warning [ALG0016] Part Name "POUSSOIR_SW4_A_BP4_SW4_A,SW4_B,SW4_C,SW4_D,SW4_E,SW4_F,SW4_G" is renamed to "POUSSOIR_SW4_A_BP4_SW4_A,SW4_B,".
+#13 Warning [ALG0016] Part Name "QUARTZ_XTAL_A_20 MHZ_XTAL_A,XTAL_B" is renamed to "QUARTZ_XTAL_A_20 MHZ_XTAL_A,XTA".
+Scanning netlist files ...
+
+Loading... H:\Projet_S8\Typon\allegro/pstchip.dat
+
+Loading... H:\Projet_S8\Typon\allegro/pstchip.dat
+
+Loading... H:\Projet_S8\Typon\allegro/pstxprt.dat
+
+Loading... H:\Projet_S8\Typon\allegro/pstxnet.dat
+packaging the design view...

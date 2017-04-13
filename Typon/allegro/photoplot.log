@@ -1,0 +1,108 @@
+(------------------------------------------------------------)
+(                                                            )
+(        ARTWORK LOG                                         )
+(                                                            )
+(        Drawing          : carte.brd                        )
+(        Software Version : 16.0s007                         )
+(        Date/Time        : Mon Mar 21 09:26:53 2011         )
+(                                                            )
+(------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+Mon Mar 21 09:26:54 2011				Page     1
+
+Photoplot log file
+Results from parameter file ...
+
+DEVICE-TYPE           GERBER_RS274X
+OUTPUT-UNITS          INCHES
+FILM-SIZE             2400000 1600000
+FORMAT                3.5
+ABORT-ON-ERROR        NO
+SCALE                 1
+SUPPRESS-LEAD-ZEROES  YES
+SUPPRESS-TRAIL-ZEROES NO
+SUPPRESS-EQUAL        YES
+UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0
+  Offset y:                           0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+    WARNING: 0 width line found at (1100 2900)
+           ... ignored!
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01500                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.06200                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.13000                                  DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+  SQUARE     0.20000                     0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.05500       0.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0
+  Offset y:                           0
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored!
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.06200                                  DARK 
+  CIRCLE     0.07500                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.13000                                  DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+  SQUARE     0.20000                     0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.05500       0.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+            TOP created with warnings
+            BOTTOM created with warnings
+
+ ARTWORK finished

@@ -1,0 +1,180 @@
+(ExpressProject "carte"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\carte.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File "H:\PROJET_S8\TYPON\CARTE.DRC")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Input Board File" "Y:\ENSEIRB_15x15cm.brd")
+    ("Allegro Netlist Output Board File" "allegro\carte.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ORCAD")
+    ("Allegro Setup Configuration File"
+       "C:\OrCAD\OrCAD_16.0\tools\capture\allegro.cfg")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\carte.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (conn2
+      (FullPartName "conn2.Normal")
+      (LibraryName "Y:\ENSEIRB.OLB")
+      (DeviceIndex "0"))
+    (conn4
+      (FullPartName "conn4.Normal")
+      (LibraryName "Y:\ENSEIRB.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "Y:\ENSEIRB.OLB")
+      (DeviceIndex "0"))
+    (conn10
+      (FullPartName "conn10.Normal")
+      (LibraryName "Y:\ENSEIRB.OLB")
+      (DeviceIndex "0"))
+    (Plot_mini
+      (FullPartName "Plot_mini.Normal")
+      (LibraryName "Y:\ENSEIRB.OLB")
+      (DeviceIndex "0"))
+    (cavalier
+      (FullPartName "cavalier.Normal")
+      (LibraryName "Y:\ENSEIRB.OLB")
+      (DeviceIndex "0"))
+    (Plot
+      (FullPartName "Plot.Normal")
+      (LibraryName "Y:\ENSEIRB.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "Y:\ENSEIRB.OLB")
+      (DeviceIndex "0"))
+    (LM7805
+      (FullPartName "LM7805.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\OLDLIBS\ANALOG2.OLB")
+      (DeviceIndex "0"))
+    (conn1
+      (FullPartName "conn1.Normal")
+      (LibraryName "Y:\ENSEIRB.OLB")
+      (DeviceIndex "0"))
+    (PIC_RJ12
+      (FullPartName "PIC_RJ12.Normal")
+      (LibraryName "Y:\ENSEIRB.OLB")
+      (DeviceIndex "0"))
+    (Poussoir
+      (FullPartName "Poussoir.Normal")
+      (LibraryName "Y:\ENSEIRB.OLB")
+      (DeviceIndex "0"))
+    (Quartz
+      (FullPartName "Quartz.Normal")
+      (LibraryName "Y:\ENSEIRB.OLB")
+      (DeviceIndex "0"))
+    (QZS10MEG
+      (FullPartName "QZS10MEG.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\PSPICE\XTAL.OLB")
+      (DeviceIndex "0"))
+    (ISO121
+      (FullPartName "ISO121.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\OLDLIBS\ANALOG2.OLB")
+      (DeviceIndex "0"))
+    (0805CS-181
+      (FullPartName "0805CS-181.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\PSPICE\COILCRAFT.OLB")
+      (DeviceIndex "0"))
+    (PIC16C74
+      (FullPartName "PIC16C74.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\MICROCONTROLLER.OLB")
+      (DeviceIndex "0"))
+    (PIC17C44_TQ
+      (FullPartName "PIC17C44_TQ.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\MICROCONTROLLER.OLB")
+      (DeviceIndex "0"))
+    (PIC16CR65_PQ
+      (FullPartName "PIC16CR65_PQ.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\MICROCONTROLLER.OLB")
+      (DeviceIndex "0"))
+    (PIC16C924/FP
+      (FullPartName "PIC16C924/FP.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\MICROCONTROLLER.OLB")
+      (DeviceIndex "0"))
+    (PIC16C923_P
+      (FullPartName "PIC16C923_P.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\MICROCONTROLLER.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs")
+      (Select "Design Resources"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -30 0 200 0 396"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -30 95 1319 54 483")
+        (Scroll "15 0")
+        (Zoom "95")
+        (Occurrence "/"))
+      (Path "H:\PROJET_S8\TYPON\CARTE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (LastUsedLibraryBrowseDirectory "Y:\")
+  (MPSSessionName "fforest")
+  (ISPCBBASICLICENSE "false"))

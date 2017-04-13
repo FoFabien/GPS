@@ -1,0 +1,278 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  Y:/ENSEIRB_15x15cm.brd                                                      |
+|                                                    Mon Mar 14 11:35:02 2011  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  GND          pins ADDED TO this new net
+                                 C1.1           C2.1           C3.1           
+                                 C4.1           J1.3           J2.4           
+                                 J4.2           R3.1           R4.1           
+                                 R5.1           TP10.1         TP11.1         
+                                 U1.12          U1.31          U2.1           
+                                 U5.2           U9.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05170       pins ADDED TO this new net
+                                 C1.2           U1.13          Y1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06156       pins ADDED TO this new net
+                                 U1.26          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N06229       pins ADDED TO this new net
+                                 U1.25          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N11738       pins ADDED TO this new net
+                                 C2.2           U1.14          Y1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N15655       pins ADDED TO this new net
+                                 J1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N22353       pins ADDED TO this new net
+                                 U1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N24490       pins ADDED TO this new net
+                                 J1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N25617       pins ADDED TO this new net
+                                 U1.18          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N25753       pins ADDED TO this new net
+                                 U1.23          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N25891       pins ADDED TO this new net
+                                 U1.24          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26031       pins ADDED TO this new net
+                                 U1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26173       pins ADDED TO this new net
+                                 U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26317       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  Y:/ENSEIRB_15x15cm.brd                                                      |
+|                                                    Mon Mar 14 11:35:02 2011  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26463       pins ADDED TO this new net
+                                 U1.33          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26611       pins ADDED TO this new net
+                                 U1.34          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26761       pins ADDED TO this new net
+                                 U1.35          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26913       pins ADDED TO this new net
+                                 U1.37          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27067       pins ADDED TO this new net
+                                 U1.38          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N48908       pins ADDED TO this new net
+                                 C3.2           TP9.1          U9.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RA0          pins ADDED TO this new net
+                                 J2.1           J3.1           U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RA1          pins ADDED TO this new net
+                                 J2.2           J3.2           U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RB3          pins ADDED TO this new net
+                                 J1.6           U1.36          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RB6          pins ADDED TO this new net
+                                 J1.5           U1.39          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RB7          pins ADDED TO this new net
+                                 J1.4           U1.40          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RC0          pins ADDED TO this new net
+                                 R3.2           U1.15          U6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RC1          pins ADDED TO this new net
+                                 R4.2           U1.16          U7.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RC2          pins ADDED TO this new net
+                                 R5.2           U1.17          U8.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RD0          pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  Y:/ENSEIRB_15x15cm.brd                                                      |
+|                                                    Mon Mar 14 11:35:02 2011  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 U1.19          U2.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RD1          pins ADDED TO this new net
+                                 U1.20          U2.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RD2          pins ADDED TO this new net
+                                 U1.21          U2.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RD3          pins ADDED TO this new net
+                                 U1.22          U2.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RD4          pins ADDED TO this new net
+                                 U1.27          U2.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RD5          pins ADDED TO this new net
+                                 U1.28          U2.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RD6          pins ADDED TO this new net
+                                 U1.29          U2.13          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RD7          pins ADDED TO this new net
+                                 U1.30          U2.14          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RE0          pins ADDED TO this new net
+                                 J3.3           U1.8           U2.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RE1          pins ADDED TO this new net
+                                 J3.4           U1.9           U2.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RE2          pins ADDED TO this new net
+                                 J4.1           U1.10          U2.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RESET        pins ADDED TO this new net
+                                 R1.1           U1.1           U5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD          pins ADDED TO this new net
+                                 C4.2           J2.3           R1.2           
+                                 U1.11          U1.32          U2.2           
+                                 U2.3           U6.2           U7.2           
+                                 U8.2           U9.2           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  Y:/ENSEIRB_15x15cm.brd                                                      |
+|                                                    Mon Mar 14 11:35:02 2011  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CONN1_CN1_A_CONN1
+ CONN4_CN4_A_CONN4
+ C_CAP_A_0.1 U_CAP_A,CAP_B,CAPCK
+ C_CAP_A_0.33 U_CAP_A,CAP_B,CAPC
+ C_CAP_A_22P
+ ISO121_6_AFFICHEUR_LCD_2X16_LCD
+ LM7805_TO220_E_LM7805
+ PIC16C74_0_DIP40_6E_PIC16F877
+ PIC_RJ12_RJ12_PIC_RJ12
+ POUSSOIR_SW4_A_BP1_SW4_A,SW4_B,
+ POUSSOIR_SW4_A_BP2_SW4_A,SW4_B,
+ POUSSOIR_SW4_A_BP3_SW4_A,SW4_B,
+ POUSSOIR_SW4_A_BP4_SW4_A,SW4_B,
+ QUARTZ_XTAL_A_20 MHZ_XTAL_A,XTA
+ R_RES_A_10K_RES_A,RES_B,RES_C,R
+ R_RES_A_47K_RES_A,RES_B,RES_C,R
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  Y:/ENSEIRB_15x15cm.brd                                                      |
+|                                                    Mon Mar 14 11:35:02 2011  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  C_CAP_A_22P           
+ C2                  C_CAP_A_22P           
+ C3                  C_CAP_A_0.33 U_CAP_A,CAP_B,CAPC 
+ C4                  C_CAP_A_0.1 U_CAP_A,CAP_B,CAPCK 
+ J1                  PIC_RJ12_RJ12_PIC_RJ12 
+ J2                  CONN4_CN4_A_CONN4     
+ J3                  CONN4_CN4_A_CONN4     
+ J4                  CONN4_CN4_A_CONN4     
+ R1                  R_RES_A_47K_RES_A,RES_B,RES_C,R 
+ R3                  R_RES_A_10K_RES_A,RES_B,RES_C,R 
+ R4                  R_RES_A_10K_RES_A,RES_B,RES_C,R 
+ R5                  R_RES_A_10K_RES_A,RES_B,RES_C,R 
+ TP9                 CONN1_CN1_A_CONN1     
+ TP10                CONN1_CN1_A_CONN1     
+ TP11                CONN1_CN1_A_CONN1     
+ U1                  PIC16C74_0_DIP40_6E_PIC16F877 
+ U2                  ISO121_6_AFFICHEUR_LCD_2X16_LCD 
+ U5                  POUSSOIR_SW4_A_BP1_SW4_A,SW4_B, 
+ U6                  POUSSOIR_SW4_A_BP2_SW4_A,SW4_B, 
+ U7                  POUSSOIR_SW4_A_BP3_SW4_A,SW4_B, 
+ U8                  POUSSOIR_SW4_A_BP4_SW4_A,SW4_B, 
+ U9                  LM7805_TO220_E_LM7805 
+ Y1                  QUARTZ_XTAL_A_20 MHZ_XTAL_A,XTA 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  Y:/ENSEIRB_15x15cm.brd                                                      |
+|                                                    Mon Mar 14 11:35:02 2011  |
+|------------------------------------------------------------------------------|
+| COMPONENT PROPERTIES added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   ref  des   |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C3                             VOLTAGE        100
+ C4                             VOLTAGE        100
+ R1                             VOLTAGE        100
+ R3                             VOLTAGE        100
+ R4                             VOLTAGE        100
+ R5                             VOLTAGE        100
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  Y:/ENSEIRB_15x15cm.brd                                                      |
+|                                                    Mon Mar 14 11:35:02 2011  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ J1.1                           PRIM_FILE      .\pstchip.dat
+ J2.4                           PRIM_FILE      .\pstchip.dat
+ J3.4                           PRIM_FILE      .\pstchip.dat
+ J4.4                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ TP9.1                          PRIM_FILE      .\pstchip.dat
+ TP10.1                         PRIM_FILE      .\pstchip.dat
+ TP11.1                         PRIM_FILE      .\pstchip.dat
+ U1.32                          PRIM_FILE      .\pstchip.dat
+ U2.2                           PRIM_FILE      .\pstchip.dat
+ U5.2                           PRIM_FILE      .\pstchip.dat
+ U6.2                           PRIM_FILE      .\pstchip.dat
+ U7.2                           PRIM_FILE      .\pstchip.dat
+ U8.2                           PRIM_FILE      .\pstchip.dat
+ U9.2                           PRIM_FILE      .\pstchip.dat
+ Y1.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  170                                            |
+|------------------------------------------------------------------------------|

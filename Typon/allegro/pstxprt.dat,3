@@ -1,0 +1,233 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.0.0 s001Mar-14-2011 at 11:31:08 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CARTE';
+ POST_TIME='Oct 24 2007 13:27:25';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_CAP_A_22P':
+ VOLTAGE='CMAX';
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS5002@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins5002@analog.\c.normal\(chips)',
+ VOLTAGE='CMAX',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_CAP_A_22P':
+ VOLTAGE='CMAX';
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS5053@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins5053@analog.\c.normal\(chips)',
+ VOLTAGE='CMAX',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_CAP_A_0.33 U_CAP_A,CAP_B,CAPC':
+ VOLTAGE='100';
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS48092@ENSEIRB.C.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins48092@enseirb.\c.normal\(chips)',
+ VOLTAGE='100',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_CAP_A_0.1 U_CAP_A,CAP_B,CAPCK':
+ VOLTAGE='100';
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS48215@ENSEIRB.C.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins48215@enseirb.\c.normal\(chips)',
+ VOLTAGE='100',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'PIC_RJ12_RJ12_PIC_RJ12':;
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS23058@ENSEIRB.PIC_RJ12.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins23058@enseirb.\pic_rj12.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CONN4_CN4_A_CONN4':;
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS63519@ENSEIRB.CONN4.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins63519@enseirb.\conn4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CONN4_CN4_A_CONN4':;
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS82813@ENSEIRB.CONN4.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins82813@enseirb.\conn4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CONN4_CN4_A_CONN4':;
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS82950@ENSEIRB.CONN4.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins82950@enseirb.\conn4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_RES_A_47K_RES_A,RES_B,RES_C,R':
+ VOLTAGE='100';
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS13408@ENSEIRB.R.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins13408@enseirb.\r.normal\(chips)',
+ VOLTAGE='100',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_RES_A_10K_RES_A,RES_B,RES_C,R':
+ VOLTAGE='100';
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS71603@ENSEIRB.R.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins71603@enseirb.\r.normal\(chips)',
+ VOLTAGE='100',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_RES_A_10K_RES_A,RES_B,RES_C,R':
+ VOLTAGE='100';
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS72407@ENSEIRB.R.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins72407@enseirb.\r.normal\(chips)',
+ VOLTAGE='100',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_RES_A_10K_RES_A,RES_B,RES_C,R':
+ VOLTAGE='100';
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS72546@ENSEIRB.R.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins72546@enseirb.\r.normal\(chips)',
+ VOLTAGE='100',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP10 'CONN1_CN1_A_CONN1':;
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS69137@ENSEIRB.CONN1.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins69137@enseirb.\conn1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP11 'CONN1_CN1_A_CONN1':;
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS81246@ENSEIRB.CONN1.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins81246@enseirb.\conn1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP9 'CONN1_CN1_A_CONN1':;
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS69003@ENSEIRB.CONN1.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins69003@enseirb.\conn1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'PIC16C74_0_DIP40_6E_PIC16F877':;
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS1079@CARTE.PIC16C74_0.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins1079@carte.\pic16c74_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'ISO121_6_AFFICHEUR_LCD_2X16_LCD':;
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS1341@CARTE.ISO121_6.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins1341@carte.\iso121_6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'POUSSOIR_SW4_A_BP1_SW4_A,SW4_B,':;
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS12294@ENSEIRB.POUSSOIR.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins12294@enseirb.\poussoir.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'POUSSOIR_SW4_A_BP2_SW4_A,SW4_B,':;
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS20987@ENSEIRB.POUSSOIR.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins20987@enseirb.\poussoir.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7 'POUSSOIR_SW4_A_BP3_SW4_A,SW4_B,':;
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS21003@ENSEIRB.POUSSOIR.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins21003@enseirb.\poussoir.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U8 'POUSSOIR_SW4_A_BP4_SW4_A,SW4_B,':;
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS21057@ENSEIRB.POUSSOIR.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins21057@enseirb.\poussoir.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U9 'LM7805_TO220_E_LM7805':;
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS47958@ANALOG2.LM7805.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins47958@analog2.\lm7805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'QUARTZ_XTAL_A_20 MHZ_XTAL_A,XTA':;
+
+SECTION_NUMBER 1
+ '@CARTE.SCHEMATIC1(SCH_1):INS11030@ENSEIRB.QUARTZ.NORMAL(CHIPS)':
+ C_PATH='@carte.schematic1(sch_1):ins11030@enseirb.\quartz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

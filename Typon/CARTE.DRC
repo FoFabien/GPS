@@ -1,0 +1,69 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING:  [DRC0004]  Possible pin type conflict U1,RE2/C\S\/AN7 Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (5.20, 4.80) 
+WARNING:  [DRC0004]  Possible pin type conflict U1,RA1/AN1 Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (3.00, 2.90) 
+WARNING:  [DRC0004]  Possible pin type conflict U1,RE0/R\D\/AN5 Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (5.20, 4.60) 
+WARNING:  [DRC0004]  Possible pin type conflict U1,RE1/W\R\/AN6 Bidirectional Connected to Power
+                    SCHEMATIC1, PAGE1  (5.20, 4.70) 
+WARNING:  [DRC0004]  Possible pin type conflict U3,TTL TX Power Connected to Bidirectional
+                    SCHEMATIC1, PAGE1  (7.40, 1.80) 
+WARNING:  [DRC0004]  Possible pin type conflict U1,RD5/PSP5 Bidirectional Connected to Output
+                    SCHEMATIC1, PAGE1  (5.20, 4.20) 
+
+Checking for Unconnected Nets
+WARNING:  [DRC0006]  Net has fewer than two connections N24490
+                    SCHEMATIC1, PAGE1  (7.50, 0.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections N26463
+                    SCHEMATIC1, PAGE1  (3.00, 3.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections N15655
+                    SCHEMATIC1, PAGE1  (7.50, 0.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections N26317
+                    SCHEMATIC1, PAGE1  (3.00, 3.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections N26173
+                    SCHEMATIC1, PAGE1  (3.00, 3.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections N26031
+                    SCHEMATIC1, PAGE1  (3.00, 3.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections N25891
+                    SCHEMATIC1, PAGE1  (5.80, 3.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections N27067
+                    SCHEMATIC1, PAGE1  (3.00, 4.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections N26913
+                    SCHEMATIC1, PAGE1  (3.00, 3.90) 
+WARNING:  [DRC0006]  Net has fewer than two connections N25753
+                    SCHEMATIC1, PAGE1  (5.80, 3.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections N25617
+                    SCHEMATIC1, PAGE1  (5.80, 3.10) 
+WARNING:  [DRC0006]  Net has fewer than two connections N26761
+                    SCHEMATIC1, PAGE1  (3.00, 3.70) 
+WARNING:  [DRC0006]  Net has fewer than two connections N26611
+                    SCHEMATIC1, PAGE1  (3.00, 3.60) 
+WARNING:  [DRC0006]  Net has fewer than two connections N54463
+                    SCHEMATIC1, PAGE1  (7.40, 2.20) 
+WARNING:  [DRC0006]  Net has fewer than two connections N54643
+                    SCHEMATIC1, PAGE1  (7.40, 2.30) 
+WARNING:  [DRC0006]  Net has fewer than two connections N06229
+                    SCHEMATIC1, PAGE1  (5.80, 3.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections N22353
+                    SCHEMATIC1, PAGE1  (3.00, 3.00) 
+WARNING:  [DRC0006]  Net has fewer than two connections N06156
+                    SCHEMATIC1, PAGE1  (5.80, 3.50) 
+
+Checking for Invalid References
+[DRC0011]  Reference is invalid for this part 5V
+                    SCHEMATIC1, PAGE1  (13.50, 3.70) 
+[DRC0011]  Reference is invalid for this part V+
+                    SCHEMATIC1, PAGE1  (10.00, 4.20) 
+[DRC0011]  Reference is invalid for this part V-
+                    SCHEMATIC1, PAGE1  (10.00, 4.90) 
+
+Checking for Duplicate References
+
+Check Bus width mismatch
